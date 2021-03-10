@@ -1,0 +1,7 @@
+node_modules
+dist
+!jsconfig.json
+!.vscode
+*.env
+*.snap
+.env
